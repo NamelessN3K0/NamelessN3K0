@@ -5,6 +5,7 @@
  <img align='right' src='https://github.com/NamelessN3K0/NamelessN3K0/blob/main/OctoCat.gif' height='200'>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=NamelessN3K0&count_private=true&show_icons=true&include_all_commits=false&theme=aura_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 __________
 <h3 align="center">Languages and Tools:</h3>
