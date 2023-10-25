@@ -49,6 +49,10 @@ __________
  <!-- LUA ! -->
  <a href="https://www.lua.org" target="_blank" rel="noreferrer"> 
  <img src="https://www.vectorlogo.zone/logos/lua/lua-official.svg" alt="lua" width="40" height="40"/> </a> 
+
+  <!-- MARIADB ! -->
+ <a href="https://mariadb.org" target="_blank" rel="noreferrer"> 
+ <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="lua" width="40" height="40"/> </a> 
  
  <!-- PHOTOSHOP ! -->
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
