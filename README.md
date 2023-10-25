@@ -45,6 +45,10 @@ __________
  <!-- KOTLIN ! -->
  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
+
+ <!-- LUA ! -->
+ <a href="https://www.lua.org" target="_blank" rel="noreferrer"> 
+ <img src="https://www.vectorlogo.zone/logos/lua/lua-official.svg" alt="lua" width="40" height="40"/> </a> 
  
  <!-- PHOTOSHOP ! -->
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
